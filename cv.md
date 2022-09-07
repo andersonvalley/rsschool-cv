@@ -11,7 +11,7 @@
 - **Discord:** andersonvalley#4425
 
 ### Briefly About Myself:
-I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+Hi! I'm a junior frontend developer. I want to upgrade my skills. I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 ### Skills and Proficiency:
 - Bringing mock-ups to life using HTML (PUG), CSS (SASS), JavaScript.
